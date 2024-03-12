@@ -27,7 +27,39 @@
 }
 
 .escola{
-    background-image: linear-gradient(#424E61, #19c441);
+    background-image: linear-gradient(#ffffff, #19c441);
     color: white;
     display: flex;
+}
+
+.escola-div-conteudo{
+    width: 35%;
+}
+
+.escola-titulo{
+    padding: 24px 0;
+}
+
+.escola{
+    background-image: linear-gradient(#424E61, #4ee958)
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.escola{
+    background-image: linear-gradient(#424E61,#36e161);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.escola{
+    background-image: linear-gradient(#424E61,#2ce66a);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
