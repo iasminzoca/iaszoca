@@ -4,6 +4,9 @@
 }
 
 .cabecalho{
+    #grad {
+        background-image: linear-gradient(rgb(93, 175, 21), rgb(143, 247, 64));
+      }
     background-color:  linear-gradient(#1c5604, #36e161)
     color: "greenyellow";
     display: flex;
