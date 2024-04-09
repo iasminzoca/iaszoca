@@ -33,7 +33,7 @@
     #grad {
         background-image: linear-gradient(#79d032, #19c441);
       } background-image: linear-gradient(#79d032, #19c441);
-    color: white;
+    color: rgb(100, 227, 37);
     display: flex;
 }
 
@@ -68,7 +68,7 @@
     #grad {
         background-image: linear-gradient(#1c5604, #4ee958);
       }background-image: linear-gradient(#1c5604,#2ce66a);
-    color:white;
+    color:rgb(101, 191, 27);
     display: flex;
     justify-content: center;
     align-items: center;
