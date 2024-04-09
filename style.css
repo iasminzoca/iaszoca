@@ -58,7 +58,7 @@
     #grad {
         background-image: linear-gradient(#1c5604, #4ee958);
       }background-image: linear-gradient(#1c5604,#36e161);
-    color:white;
+    color:rgb(26, 209, 32);
     display: flex;
     justify-content: center;
     align-items: center;
