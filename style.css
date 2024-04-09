@@ -31,8 +31,8 @@
 
 .escola{
     #grad {
-        background-image: linear-gradient(#ffffff, #19c441);
-      } background-image: linear-gradient(#ffffff, #19c441);
+        background-image: linear-gradient(#79d032, #19c441);
+      } background-image: linear-gradient(#79d032, #19c441);
     color: white;
     display: flex;
 }
